@@ -1,6 +1,6 @@
 # Association Rule Learning Recommender
 ## ● Business Problem<br/>
-![This is an image](https://github.com/enessoztrk/Association_Rule_Recommender/blob/main/%C4%B0mg/img.jpg)<br/><br/>
+![This is an image](https://github.com/enessoztrk/Association_Rule_Recommender/blob/main/Dataset/img.jpg)<br/><br/>
 • Products for users at the basket stage make a suggestion.<br/><br/>
 ## ● Dataset Story <br/>
 • The data set called Online Retail II is an online sale based in the UK sales of the store from 01/12/2009 to 09/12/2011 it contains.<br/><br/>
