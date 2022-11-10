@@ -58,7 +58,7 @@ df = retail_data_prep(df)
 df.head(10)
 
 ###############################################################
-   # Preparing the Data Structure (Invoice-Product Matrix) #
+#    Preparing the Data Structure (Invoice-Product Matrix)    #
 ###############################################################
 
 # The situation where we want the data to come:
